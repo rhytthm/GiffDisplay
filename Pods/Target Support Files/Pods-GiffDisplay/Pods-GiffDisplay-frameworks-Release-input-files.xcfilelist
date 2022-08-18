@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-GiffDisplay/Pods-GiffDisplay-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Gifu/Gifu.framework
+${BUILT_PRODUCTS_DIR}/Nuke/Nuke.framework
+${BUILT_PRODUCTS_DIR}/NukeUI/NukeUI.framework
